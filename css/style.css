@@ -1,0 +1,83 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Cherry Bomb One", cursive;
+}
+
+h1 {
+  font-family: "Rock Salt", cursive;
+  color: #fff147;
+  text-shadow: saddlebrown 2px 2px 1px;
+  text-align: center;
+  padding: 30px;
+}
+
+body {
+  background-color: #e7f9ff;
+}
+
+a {
+  text-decoration: none;
+  color: #fff147;
+  text-shadow: saddlebrown 2px 2px 1px;
+  font-size: 18px;
+}
+
+a:hover {
+  color: thistle;
+}
+
+li {
+  display: inline-block;
+  padding: 30px;
+}
+
+header {
+  background-color: #a4dae7;
+}
+
+ul {
+  text-align: center;
+}
+
+figcaption {
+  text-align: center;
+}
+
+.cloud-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 100px;
+  position: absolute;
+  z-index: -1;
+}
+
+.cloud {
+  max-width: 100%;
+  height: auto;
+}
+
+.simpsons-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  max-width: 300px;
+  margin: 10px;
+}
+
+.card img {
+  width: 200px;
+  height: auto;
+  display: block;
+  margin-bottom: 10px;
+}
