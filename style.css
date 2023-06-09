@@ -47,16 +47,16 @@ figcaption {
 
 .cloud-container {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
-  padding: 10px;
+  padding: 0px 100px;
   position: absolute;
   z-index: -1;
 }
 
 .cloud {
-  width: 450px;
-  height: 250px;
+  max-width: 100%;
+  height: auto;
 }
 
 .simpsons-section {
