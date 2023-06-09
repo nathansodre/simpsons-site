@@ -1,7 +1,7 @@
 
 # Simpsons
 
-Uma landing page simples e responsiva com os personagens dos Simpsons utilizando CSS3 e HTML5 para um desafio de aula do curso de Front-End Development do Vai Na Web.
+Página simples e responsiva com os personagens dos Simpsons utilizando CSS3 e HTML5 para um desafio de aula do curso de Front-End Development do Vai Na Web.
 
 ## Screenshots
 
